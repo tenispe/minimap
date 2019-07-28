@@ -1,0 +1,15 @@
+{ "comment": "",
+
+"test": {
+  "name": "ancapG.png",
+  "x": 0,  "y": 0,
+  "width": 49, "height": 31
+},
+ "voidzil" :{
+  "name": "voidzil.png",
+  "x": 100,  "y": 100,
+  "width": 400, "height": 239
+}
+
+
+}
