@@ -1,9 +1,9 @@
 { "comment": "",
 
-"test": {
-  "name": "ancapG.png",
-  "x": 0,  "y": 0,
-  "width": 49, "height": 31
+"aqua" :{
+  "name": "FenisAF.png",
+  "x": 3934,  "y": 2251,
+  "width": 123, "height": 79
 },
  "voidzil" :{
   "name": "voidzil.png",
