@@ -6,9 +6,9 @@
 // @author       anon
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
-// @homepage     https://github.com/Ev3rtonAllakbar/Ev3rTon/
-// @updateURL   https://raw.githubusercontent.com/Ev3rtonAllakbar/Ev3rTon/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/Ev3rtonAllakbar/Ev3rTon/master/minimap.user.js
+// @homepage     https://github.com/tenispe/minimap/
+// @updateURL   https://raw.githubusercontent.com/tenispe/minimap/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/tenispe/minimap/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 /*Based on OTTOMAN
@@ -43,8 +43,8 @@ setCookie("baseTemplateUrl", "")
 */
 
 // Default location of template images and templates.json. Is user input and stored in a cookie.
-var baseTemplateUrl = 'https://raw.githubusercontent.com/Ev3rtonAllakbar/Ev3rTon/master/';
-var vers = "Minimap: Greb";
+var baseTemplateUrl = 'https://raw.githubusercontent.com/tenispe/minimap/master/';
+var vers = "Minimap: none";
 var range = 6; //margin for showing the map window
 
 var x, y, zoomlevel, zooming_out, zooming_in, zoom_time, x_window, y_window, coorDOM, gameWindow;
