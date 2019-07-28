@@ -1,9 +1,9 @@
  // ==UserScript==
-// @name         Grebbot
+// @name         MiniMapbot
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
-// @description  Testado no chrome
-// @author       Anon
+// @version      0.1
+// @description  tenispe
+// @author       none
 // @match        https://pixelzone.io/*
 // @homepage     none
 // @grant        none
