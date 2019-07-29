@@ -5,10 +5,10 @@
   "x": 3934,  "y": 2251,
   "width": 123, "height": 79
 },
- "voidzil" :{
-  "name": "voidzil.png",
-  "x": 100,  "y": 100,
-  "width": 400, "height": 239
+"greb" :{
+  "name": "greb.png",
+  "x": 3083,  "y": 2636,
+  "width": 197, "height": 188
 }
 
 
