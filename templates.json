@@ -19,9 +19,14 @@
   "name" : "PR.png" ,
   "x" : 318 ,   "y" : 3035 ,
   "width" : 476 , "height" : 337
+},
+"base" : {
+  "name" : "base.png" ,
+  "x" : 2514 ,   "y" : 2191 ,
+  "width" : 396 , "height" : 222
 }
 
- 
+
 }
  
 
