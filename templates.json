@@ -29,10 +29,17 @@
   "name" : "escudo_pp.png" ,
   "x" : 3139 ,   "y" : 2524 ,
   "width" : 141 , "height" : 110
+},
+ "SPP" : {
+  "name" : "SPP.png" ,
+  "x" : 1117 ,   "y" : 315 ,
+  "width" : 322 , "height" : 191
 }
 
 
 }
+
+
  
 
  
