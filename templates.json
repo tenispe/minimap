@@ -39,6 +39,11 @@
   "name" : "ODN.png" ,
   "x" : 1570 ,   "y" : 3619 ,
   "width" : 584 , "height" : 477
+},
+ "logoODN" : {
+  "name" : "logoODN.png" ,
+  "x" : 1820 ,   "y" : 3897 ,
+  "width" : 218 , "height" : 113
 }
 
 
