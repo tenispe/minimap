@@ -10,11 +10,6 @@
   "x": 3083,  "y": 2636,
   "width": 197, "height": 188
 },
-"grebn" :{
-  "name": "grebn.png",
-  "x": 0,  "y": 0,
-  "width": 78, "height": 54
-},
 "PR" : {
   "name" : "PR.png" ,
   "x" : 318 ,   "y" : 3035 ,
@@ -34,11 +29,6 @@
   "name" : "SPP.png" ,
   "x" : 1117 ,   "y" : 315 ,
   "width" : 322 , "height" : 191
-},
- "ODN" : {
-  "name" : "ODN.png" ,
-  "x" : 1570 ,   "y" : 3619 ,
-  "width" : 584 , "height" : 477
 },
  "logoODN" : {
   "name" : "logoODN.png" ,
