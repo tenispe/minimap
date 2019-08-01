@@ -24,6 +24,11 @@
   "name" : "base.png" ,
   "x" : 2514 ,   "y" : 2191 ,
   "width" : 396 , "height" : 222
+},
+ "escudo" : {
+  "name" : "escudo_pp.png" ,
+  "x" : 3139 ,   "y" : 2524 ,
+  "width" : 141 , "height" : 110
 }
 
 
