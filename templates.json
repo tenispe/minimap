@@ -1,9 +1,9 @@
 { "comment": "",
 
 "FenixAF" :{
-  "name": "FenisAF.png",
-  "x": 3934,  "y": 2251,
-  "width": 123, "height": 79
+  "name": "FenisAF.png" ,
+  "x": 3934 ,  "y": 2251 ,
+  "width": 123 , "height": 79
 },
 "youare" : {
   "name" : "youare.png" ,
