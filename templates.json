@@ -29,8 +29,12 @@
   "name" : "logoODN.png" ,
   "x" : 1820 ,   "y" : 3897 ,
   "width" : 218 , "height" : 113
+},
+"atzdis" :{
+  "name": "atzdis.png",
+  "x": 125,  "y": 705,
+  "width": 92 , "height": 11
 }
-
 
 }
 
