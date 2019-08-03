@@ -34,6 +34,11 @@
   "name": "atzdis.png",
   "x": 125,  "y": 705,
   "width": 92 , "height": 11
+},
+ "brvoid" :{
+  "name": "brvoid.png",
+  "x": -113,  "y": 2908,
+  "width": 236 , "height": 94
 }
 
 }
