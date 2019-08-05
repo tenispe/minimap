@@ -19,6 +19,11 @@
   "name" : "SPP.png" ,
   "x" : 1117 ,   "y" : 315 ,
   "width" : 322 , "height" : 191
+},
+  "vdz" : {
+  "name" : "piriquitovdz.png" ,
+  "x" : 911 ,   "y" : 2950,
+  "width" : 90 , "height" : 62
 }
 
 
