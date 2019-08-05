@@ -1,10 +1,5 @@
 { "comment": "",
 
-"FenixAF" :{
-  "name": "FenisAF.png" ,
-  "x": 3934 ,  "y": 2251 ,
-  "width": 123 , "height": 79
-},
 "youare" : {
   "name" : "youare.png" ,
   "x" : 318 ,   "y" : 3035 ,
@@ -24,30 +19,8 @@
   "name" : "SPP.png" ,
   "x" : 1117 ,   "y" : 315 ,
   "width" : 322 , "height" : 191
-},
- "logoODN" : {
-  "name" : "logoODN.png" ,
-  "x" : 1820 ,   "y" : 3897 ,
-  "width" : 218 , "height" : 113
-},
-"atzdis" :{
-  "name": "atzdis.png",
-  "x": 125,  "y": 705,
-  "width": 92 , "height": 11
-},
- "brvoid" :{
-  "name": "brvoid.png",
-  "x": -113,  "y": 2908,
-  "width": 236 , "height": 94
-}
-
 }
 
 
- 
-
- 
-
-
-
+}
 
