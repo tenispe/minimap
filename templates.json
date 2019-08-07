@@ -29,6 +29,11 @@
   "name": "voidzilk.png",
   "x": -389,  "y": 2454,
   "width": 256 , "height": 306
+},
+"bill" :{
+  "name": "bill.png",
+  "x": 3800,  "y": 2600,
+  "width": 50 , "height": 50
 }
 
 }
