@@ -24,12 +24,7 @@
   "name" : "piriquitovdz.png" ,
   "x" : 911 ,   "y" : 2950,
   "width" : 90 , "height" : 62
-},
-"bill" :{
-  "name": "bill.png",
-  "x": 3800,  "y": 2600,
-  "width": 50 , "height": 50
-},
+  },
 "voidzilk" :{
   "name": "voidzilk.png",
   "x": -389,  "y": 2454,
