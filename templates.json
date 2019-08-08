@@ -19,7 +19,12 @@
   "name": "voidzilk.png",
   "x": -389,  "y": 2454,
   "width": 256 , "height": 306
-}
+},
+  "peste" : {
+  "name" : "pestepz.png" ,
+  "x" : 3005 ,   "y" : 2301,
+  "width" : 170 , "height" : 207
+} 
 
 }
 
