@@ -10,30 +10,15 @@
   "x" : 2514 ,   "y" : 2191 ,
   "width" : 396 , "height" : 222
 },
- "escudo" : {
-  "name" : "escudo_pp.png" ,
-  "x" : 3139 ,   "y" : 2524 ,
-  "width" : 141 , "height" : 110
-},
  "SPP" : {
   "name" : "SPP.png" ,
   "x" : 1117 ,   "y" : 315 ,
   "width" : 322 , "height" : 191
 },
-  "vdz" : {
-  "name" : "piriquitovdz.png" ,
-  "x" : 911 ,   "y" : 2950,
-  "width" : 90 , "height" : 62
-  },
 "voidzilk" :{
   "name": "voidzilk.png",
   "x": -389,  "y": 2454,
   "width": 256 , "height": 306
-},
-"nao bill" :{
-  "name": "nao bill.png",
-  "x": 3800,  "y": 2600,
-  "width": 50 , "height": 50
 }
 
 }
