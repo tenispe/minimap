@@ -24,7 +24,13 @@
   "name" : "pestpz.png" ,
   "x" : 3005 ,   "y" : 2301,
   "width" : 170 , "height" : 207
-} 
+}, 
+"vergonha" : {
+  "name" : "vergonha.png" ,
+  "x" : 3765 ,   "y" : 2600,
+  "width" : 100 , "height" : 100
+}
+
 
 }
 
