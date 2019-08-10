@@ -24,8 +24,13 @@
   "name" : "cinzavdz.png" ,
   "x" : -398,   "y" : 2760,
   "width" : 284 , "height" : 164
+},
+"euai" : {
+  "name" : "euai.png" ,
+  "x" : -1740 ,   "y" : -2520,
+  "width" : 50 , "height" : 25 
 }
-
+ 
 
 }
 
