@@ -29,8 +29,12 @@
   "name" : "vascu.png" ,
   "x" : 755 ,   "y" : 3338 ,
   "width" : 192 , "height" : 161
+},
+ "grebfull" :{
+  "name": "grebfull.png",
+  "x": 3083,  "y": 2636,
+  "width": 197, "height": 188
 }
- 
 
 }
 
