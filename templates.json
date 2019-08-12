@@ -35,10 +35,10 @@
   "x": 3083,  "y": 2636,
   "width": 197, "height": 188
 },
-"fuck1" : {
-  "name" : "fuck1.png" ,
-  "x" : 1360 ,   "y" : 815 ,
-  "width" : 27 , "height" : 23
+"ancap" : {
+  "name" : "ancapbase.png" ,
+  "x" :-4096 ,   "y" : 1897 ,
+  "width" : 861 , "height" : 997
 }
 
 }
