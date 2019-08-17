@@ -25,10 +25,10 @@
   "x" : -1740 ,   "y" : -2520,
   "width" : 50 , "height" : 25 
 },
-"vascu" : {
-  "name" : "vascu.png" ,
-  "x" : 755 ,   "y" : 3338 ,
-  "width" : 192 , "height" : 161
+"vascoo" : {
+  "name" : "vascoo.png" ,
+  "x" : 1492 ,   "y" : 3299 ,
+  "width" : 239 , "height" : 229
 },
  "grebfull" :{
   "name": "grebfull.png",
