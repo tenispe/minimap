@@ -39,7 +39,13 @@
   "name" : "ancapbase.png" ,
   "x" :-4096 ,   "y" : 1897 ,
   "width" : 861 , "height" : 997
+},
+"BP" : {
+  "name" : "BP.png" ,
+  "x" : 1518 ,   "y" : -2812 ,
+  "width" : 154 , "height" : 63
 }
+
 
 }
 
