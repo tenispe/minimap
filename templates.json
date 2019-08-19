@@ -44,6 +44,11 @@
   "name" : "BP.png" ,
   "x" : 1518 ,   "y" : -2812 ,
   "width" : 154 , "height" : 63
+},
+"ga" : {
+  "name" : "ga.png" ,
+  "x" : -715 ,   "y" : -70 ,
+  "width" : 48 , "height" : 15
 }
 
 
